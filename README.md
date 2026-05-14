@@ -1,4 +1,4 @@
-# rand-nameimport random
+import random
 
 cities = [
     "Columbus", "Cincinnati", "Chicago", "Seattle",
